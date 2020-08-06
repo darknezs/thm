@@ -1,0 +1,11 @@
+drpepper.txt
+0
+www-data
+/usr/sbin/nologin
+18.04.4
+
+ls
+cat etc/passwd
+id
+cat etc/passwd
+hostnamectl
