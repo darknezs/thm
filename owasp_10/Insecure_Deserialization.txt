@@ -1,0 +1,2 @@
+ในข้อนี้จะเกี่ยวกับ cookie  เปลี่ยน cookie จาก user เป็น admin ก็สามารถเข้าหน้า admin ได้
+หรือแม้กระทั่ง reverse shell ในหน้า cookie ก็ยังได้
