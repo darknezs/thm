@@ -29,7 +29,7 @@ _**gobuster dir –u <target_url>  -w /usr/share/dirb/wordlists/common.txt –e*
 ![](https://github.com/darknezs/thm/blob/master/easyPeasy/images/10.png)
 คราวนี้ใน source code มี <p> ที่มี string แปลกๆ อยู่ จะเห็นได้ว่ามันลงท้ายด้วย ==  มันคือ base64 <br>
 นำไป decode <br>
-_**echo <string> | base64 --decode**_
+_**echo < string > | base64 --decode**_
 ![](https://github.com/darknezs/thm/blob/master/easyPeasy/images/11.png)
 ก็จะได้ flag แรก <br>
 คราวนี้ไปดู เว็บบน port 65524 บ้าง <br>
