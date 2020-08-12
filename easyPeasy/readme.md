@@ -34,7 +34,7 @@ _**echo <string> | base64 --decode**_
 ก็จะได้ flag แรก <br>
 คราวนี้ไปดู เว็บบน port 65524 บ้าง <br>
   ![](https://github.com/darknezs/thm/blob/master/easyPeasy/images/12.png)
-ใน source code รอบนี้มีเราถึง 2 อย่าง
+ใน source code รอบนี้มีถึง 2 อย่าง
 1.	String แปลกๆ 
    ![](https://github.com/darknezs/thm/blob/master/easyPeasy/images/13.png)
 2.	Flag ที่ 3
