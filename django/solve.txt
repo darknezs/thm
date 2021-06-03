@@ -1,4 +1,4 @@
 ssh to machine
 cd ..
 grep -R THM{
-there is one file (db file) have t raed with 'string'
+there is one file (db file) have to raed with 'strings'
